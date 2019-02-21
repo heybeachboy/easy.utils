@@ -1,1 +1,1 @@
-the utils of libaray for golang
+the utils of library for golang
